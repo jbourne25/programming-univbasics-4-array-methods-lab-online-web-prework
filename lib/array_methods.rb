@@ -6,7 +6,6 @@ def using_sort(array)
  using_include = ["wow", "I", "am", "really", "learning", "arrays!"]
  using_include.last
  
- 
 end
 
 def using_reverse(array)
